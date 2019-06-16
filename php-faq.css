@@ -55,6 +55,13 @@ section.domande {
   text-decoration: none;
   color:#5F6368;
 }
+.nav-down a:nth-child(5){
+  padding-top: 5px;
+  border-bottom:2px solid #3367D6;
+  border-bottom-width: thick;
+  line-height: 30px;
+  color:#3367D6;
+}
 .nav-down a:last-child {
   position: relative;
   left:35%;
@@ -71,6 +78,9 @@ section.domande {
 }
 .domande p {
   margin-bottom:40px;
+  line-height: 25px;
+  color: rgba(0,0,0,0.85);
+  font-size: 105%;
 }
 .domande a {
   text-decoration: none;
@@ -90,11 +100,12 @@ footer ul {
 footer ul li {
   display: inline-block;
   list-style-type: disc;
+  color:grey;
 }
 footer ul li:last-child {
   margin-left:630px;
 }
-footer a {
+footer ul.opzioni li a {
   text-decoration: none;
   color:grey;
 }
