@@ -86,6 +86,23 @@
       </div>
 
       <footer>
+        <div class="container">
+
+            <ul>
+              <li><a href="#"><small>Google</small></a></li>
+              <li><a href="#"><small>Tutto su Google</small></a></li>
+              <li><a href="#"><small>Privacy</small></a></li>
+              <li><a href="#"><small>Termini</small></a></li>
+              <li> <select class="" name="">
+                <option value="">Italiano</option>
+                <option value="">English</option>
+                <option value="">French</option>
+                <option value="">Dutch</option>
+                <option value="">Español</option>
+              </select> </li>
+            </ul>
+
+        </div>
 
       </footer>
     </section>

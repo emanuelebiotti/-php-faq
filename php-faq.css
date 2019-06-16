@@ -77,4 +77,23 @@ footer {
   height:50px;
   background-color: #F5F5F5;
   border-top: 1px solid lightgrey;
+  display: flex;
+  align-items: center;
+}
+footer ul {
+  padding-inline-start: 0;
+}
+footer ul li {
+  display: inline-block;
+  list-style-type: disc;
+}
+footer ul li:last-child {
+  margin-left:630px;
+}
+footer a {
+  text-decoration: none;
+  color:grey;
+}
+footer ul li select {
+  width:150px;
 }
