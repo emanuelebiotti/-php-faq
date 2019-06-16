@@ -26,16 +26,23 @@ section.domande {
   height:65%;
 }
 .logo {
-  width:10%;
+  width:20%;
   height:100%;
   display: flex;
   align-items: center;
 }
 .logo img {
   margin-left:18px;
+  margin-right: 0;
+}
+.logo a {
+  margin-left: 10px;
+  text-decoration: none;
+  font-size: 23px;
+  color:#5F6368;
 }
 .privacy {
-  width:90%;
+  width:80%;
   height:100%;
 }
 .nav-down {
@@ -46,7 +53,7 @@ section.domande {
 .nav-down a {
   margin:20px;
   text-decoration: none;
-  color:grey;
+  color:#5F6368;
 }
 .nav-down a:last-child {
   position: relative;

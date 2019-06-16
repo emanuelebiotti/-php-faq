@@ -11,9 +11,9 @@
       <div class="nav-up">
           <div class="logo">
             <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png" alt="">
+            <a href="#">Privacy e termini</a>
           </div>
           <div class="privacy">
-            <span>Privacy e termini</span>
           </div>
       </div>
       <div class="nav-down">
@@ -22,7 +22,7 @@
         <a href="#">Termini di servizio</a>
         <a href="#">Tecnologie</a>
         <a href="#">Domande frequenti</a>
-        <a href="#">Account Booble</a>
+        <a href="#">Account Google</a>
 
       </div>
     </nav>
