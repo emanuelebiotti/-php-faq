@@ -40,6 +40,7 @@ section.domande {
   text-decoration: none;
   font-size: 23px;
   color:#5F6368;
+  font-family: sans-serif;
 }
 .privacy {
   width:80%;
@@ -54,6 +55,9 @@ section.domande {
   margin:20px;
   text-decoration: none;
   color:#5F6368;
+  font-family: sans-serif;
+  font-size: 95%;
+  font-weight:500;
 }
 .nav-down a:nth-child(5){
   padding-top: 5px;
@@ -107,7 +111,7 @@ footer ul li:last-child {
 }
 footer ul.opzioni li a {
   text-decoration: none;
-  color:grey;
+  color:grey; 
 }
 footer ul li select {
   width:150px;
